@@ -1,0 +1,25 @@
+
+/* MENU */
+
+.navbar-light .navbar-nav .nav-item a{
+	font-size: 1.2em;
+
+}
+.navbar-light .navbar-nav .nav-item a:hover{
+	color: #6e431e;	
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link a:active{
+	color: #6e431e;
+}
+
+#titulo-cadastro{
+	color: black;
+}
+/* FIM MENU */
+
+
+.fotos:hover{
+	top: -2em;
+}
+
+
